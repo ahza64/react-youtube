@@ -1,6 +1,9 @@
 {
   "name": "react-youtube",
   "version": "1.0.0",
+  "engines": {
+    "node": "4.1.1"
+  },
   "description": "Youtube search app with react",
   "main": "index.js",
   "repository": "https://github.com/ahza64/react-youtube.git",
